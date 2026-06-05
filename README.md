@@ -21,7 +21,7 @@ A full-stack financial analysis dashboard combining **NLP sentiment analysis** f
 - Falls back to rule-based sentiment if model unavailable
 - Donut charts per source, timeline chart, per-post table
 
-### 📈 Quantitative Analysis
+### 📈 Stock Analysis
 - **Candlestick chart** with SMA 20/50, Bollinger Bands
 - **Volume bars** coloured by direction
 - **RSI** (14-period) with overbought/oversold levels
