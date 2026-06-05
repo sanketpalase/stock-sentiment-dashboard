@@ -1,5 +1,5 @@
 ---
-title: Sentiment & Quant Dashboard
+title: stock sentiment Dashboard
 emoji: 📊
 colorFrom: blue
 colorTo: purple
@@ -9,7 +9,7 @@ app_file: app.py
 pinned: false
 ---
 
-# 📊 Sentiment & Quant Dashboard
+# 📊 stock sentiment Dashboard
 
 A full-stack financial analysis dashboard combining **NLP sentiment analysis** from social media & news with **quantitative technical analysis** of stock prices.
 
